@@ -1,0 +1,76 @@
+# ═══════════════════════════════════════════
+# SubFinder v3.6 — Scan Results
+# Target  : google.com
+# Format  : subdomain,ip_address
+# ═══════════════════════════════════════════
+
+# ── Scan Session ────────────────────────────
+# Date    : 2026-03-14 16:05:27
+# Threads : 20
+# ─────────────────────────────────────────────
+www.google.com,142.251.150.119
+mail.google.com,142.250.183.133
+accounts.google.com,192.178.211.84
+smtp.google.com,64.233.170.27
+account.google.com,142.251.222.142
+admin.google.com,142.250.77.110
+api.google.com,142.251.43.132
+files.google.com,142.251.222.142
+download.google.com,142.251.43.132
+images.google.com,142.250.182.78
+upload.google.com,142.251.43.47
+vpn.google.com,64.9.224.69
+corp.google.com,74.125.200.129
+support.google.com,142.251.43.46
+help.google.com,142.251.222.142
+mobile.google.com,142.251.221.107
+store.google.com,142.251.222.206
+services.google.com,142.251.222.142
+shop.google.com,74.125.68.92
+payments.google.com,74.125.130.92
+analytics.google.com,142.251.220.110
+billing.google.com,142.251.43.142
+web.google.com,142.251.222.206
+apps.google.com,142.251.222.142
+events.google.com,172.217.24.14
+partners.google.com,142.251.222.206
+video.google.com,142.250.205.46
+# Found   : 27 subdomains
+# Duration: 0m 51s
+# ─────────────────────────────────────────────
+
+# ── Scan Session ────────────────────────────
+# Date    : 2026-03-14 17:42:25
+# Threads : 20
+# ─────────────────────────────────────────────
+www.google.com,142.250.193.68
+mail.google.com,142.250.193.69
+smtp.google.com,74.125.24.26
+accounts.google.com,192.178.211.84
+account.google.com,142.250.67.78
+api.google.com,142.250.193.132
+admin.google.com,142.250.183.14
+files.google.com,142.250.182.238
+download.google.com,142.250.183.228
+upload.google.com,142.250.192.239
+images.google.com,172.217.26.46
+support.google.com,142.251.43.110
+help.google.com,142.250.182.110
+vpn.google.com,64.9.224.69
+corp.google.com,142.251.12.129
+services.google.com,142.250.67.78
+store.google.com,142.250.67.78
+mobile.google.com,142.251.223.139
+analytics.google.com,142.250.182.46
+payments.google.com,64.233.170.92
+shop.google.com,142.250.4.92
+billing.google.com,142.250.76.78
+apps.google.com,142.250.182.238
+web.google.com,142.250.182.110
+video.google.com,172.217.26.14
+events.google.com,142.250.67.78
+partners.google.com,142.250.182.238
+# Found   : 27 subdomains
+# Duration: 0m 51s
+# ─────────────────────────────────────────────
+
